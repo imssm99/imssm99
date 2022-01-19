@@ -10,12 +10,12 @@
 - 2020.07 ~ 2021.03, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
 
 ### Bug Report
-- CVE-2021-25424 (SVE-2021-19928): Improper Bluetooth pairing mode in Tizen device
-- CVE-2021-25433 (SVE-2021-19702): Improper authorization vulnerability in Tizen factory reset policy
-- CVE-2021-25434 (SVE-2021-19703): Improper input validation vulnerability in Tizen bootloader
-- CVE-2021-25435 (SVE-2021-19705): Improper input validation vulnerability in Tizen bootloader
-- CVE-2021-25436 (SVE-2021-19310): Improper file validation vulnerability in Tizen FOTA service
-- CVE-2021-25437 (SVE-2021-19311): Improper access control vulnerability in Tizen FOTA service
+- CVE-2021-25424 (SVE-2021-19928): Improper Bluetooth pairing mode in Tizen device (WatchOver, KITRI BoB 9th)
+- CVE-2021-25433 (SVE-2021-19702): Improper authorization vulnerability in Tizen factory reset policy (WatchOver, KITRI BoB 9th)
+- CVE-2021-25434 (SVE-2021-19703): Improper input validation vulnerability in Tizen bootloader (WatchOver, KITRI BoB 9th)
+- CVE-2021-25435 (SVE-2021-19705): Improper input validation vulnerability in Tizen bootloader (WatchOver, KITRI BoB 9th)
+- CVE-2021-25436 (SVE-2021-19310): Improper file validation vulnerability in Tizen FOTA service (WatchOver, KITRI BoB 9th)
+- CVE-2021-25437 (SVE-2021-19311): Improper access control vulnerability in Tizen FOTA service (WatchOver, KITRI BoB 9th)
 - NBB-1718: Naver Office Form XSS
 
 ### Project
