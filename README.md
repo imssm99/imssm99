@@ -3,7 +3,6 @@
 ### Information
 - Email: imssm99@gmail.com
 - 2021.07 ~ 2023.01, Republic of Korea Army
-- Studying Hacking Hard
 
 ### Education
 - 2019.03 ~ ?, Seoultech, Computer Science and Enginnering
