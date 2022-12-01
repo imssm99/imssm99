@@ -16,6 +16,7 @@
 - Whitehat Contest Korea 2021, National Defense Track 2nd as 일병진
 - Cyber Conflict Exercise 2021, Public Institution Track 1st as null
 - FSI FIESTA 2022, (Under)Graduate Division 3rd as 민간인(진)
+- Whitehat Contest Korea 2022, National Defense Track 3rd as NOOP
 
 ### Bug Report
 
