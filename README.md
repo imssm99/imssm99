@@ -33,4 +33,4 @@
 - CVE-2021-25437 (SVE-2021-19311)
   - Improper access control vulnerability in Tizen FOTA service (WatchOver, KITRI BoB 9th)
 - NBB-1718
-  - Naver Office Form XSS
+- NBB-2435
