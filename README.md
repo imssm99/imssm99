@@ -33,4 +33,6 @@
 - CVE-2021-25437 (SVE-2021-19311)
   - Improper access control vulnerability in Tizen FOTA service (WatchOver, KITRI BoB 9th)
 - NBB-1718
+  - https://bugbounty.naver.com/ko/halloffame_2021
 - NBB-2435
+  - https://bugbounty.naver.com/ko/halloffame_2022
