@@ -1,15 +1,23 @@
 # Soomin Shin (imssm99)
 
 ### Information
+
 - Email: imssm99@gmail.com
-- 2021.07 ~ 2023.01, Republic of Korea Army
+
+### Work Experience
+
+- Jun. 2023 - Aug. 2023, Theori, Intern Researcher
+- Jul. 2021 - Jan. 2023, Republic of Korea Army HQ, Mandatory Military Service
+
 
 ### Education
-- 2019.03 ~ ?, Seoultech, Computer Science and Enginnering
-- 2020.07 ~ 2021.03, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
+
+- Jul. 2020 - Mar.2021, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
+- Mar. 2019 - Present, Seoultech, Computer Science and Enginnering
 
 ### Project
-- 2020.09 ~ 2021.01, Smart Watch Analysis (WatchOver, KITRI BoB 9th)
+
+- Sep. 2020 - Jan. 2021, Smart Watch Analysis (WatchOver, KITRI BoB 9th)
 
 ### Awards
 
