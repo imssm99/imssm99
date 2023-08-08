@@ -1,4 +1,4 @@
-# Soomin Shin (imssm99)
+# imssm99 (Soomin Shin)
 
 ### Information
 
