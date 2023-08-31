@@ -6,7 +6,7 @@
 
 ### Work Experience
 
-- Jun. 2023 - Aug. 2023, Theori, Intern Researcher
+- Jun. 2023 - Present, Theori, Intern Researcher
 - Jul. 2021 - Jan. 2023, Republic of Korea Army HQ, Mandatory Military Service
 
 
