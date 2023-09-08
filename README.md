@@ -12,7 +12,7 @@
 
 ### Education
 
-- Jul. 2020 - Mar.2021, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
+- Jul. 2020 - Mar. 2021, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
 - Mar. 2019 - Present, Seoultech, Computer Science and Enginnering
 
 ### Project
