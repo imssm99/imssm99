@@ -9,24 +9,41 @@
 - Jun. 2023 - Present, Theori, Security Researcher
 - Jul. 2021 - Jan. 2023, Republic of Korea Army HQ, Mandatory Military Service
 
-
 ### Education
 
 - Jul. 2020 - Mar. 2021, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
 - Mar. 2019 - Present, Seoultech, Computer Science and Enginnering
 
-### Project
+### CTF
 
-- Sep. 2020 - Jan. 2021, Smart Watch Analysis (WatchOver, KITRI BoB 9th)
+#### 2024
 
-### Awards
+- DEF CON 32 CTF, 1st as MMM
+- HITCON CTF, 3rd as MMM
+- Cyber Conflict Excercise, 4th as 군필
+- Codegate, Finalist as 리원차돌짬뽕
+- BlackHat MEA CTF, Finalist as DeadSec
 
-- Whitehat Contest Korea 2022, National Defense Track 3rd as NOOP
-- FSI FIESTA 2022, (Under)Graduate Division 3rd as 민간인(진)
-- Cyber Conflict Exercise 2021, Public Institution Track 1st as null
-- Whitehat Contest Korea 2021, National Defense Track 2nd as 일병진
+#### 2023
+
+- Hacker's Playground (SSTF), 1st as The Duck
+- HITCON CTF, Finalist as 프로그램털모찌
+- Whitehat Contest Korea, Finalist as 캣플코 (cat :flag_kr​:)
+- Cyber Conflict Excercise, Finalist as 군필
+
+#### 2022
+
+- Whitehat Contest Korea (National Defense Track), 3rd as NOOP
+- FSI FIESTA (University Division), 3rd as 민간인(진)
+- Codegate (University Division), Finalist as imssm99 (solo)
+
+#### 2021
+
+- Cyber Conflict Exercise (Public Institution Track), 1st as null
+- Whitehat Contest Korea (National Defense Track), 2nd as 일병진
 
 ### Bug Report
+
 <details>
   <summary>2021</summary>
   
@@ -54,3 +71,5 @@
   - https://bugbounty.naver.com/ko/halloffame_2022
 
 </details>
+
+TBD
