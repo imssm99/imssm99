@@ -20,7 +20,7 @@
 
 - DEF CON 32 CTF, 1st as MMM
 - HITCON CTF, 3rd as MMM
-- Cyber Conflict Excercise, 4th as 군필
+- Cyber Conflict Exercise, 4th as 군필
 - Codegate, Finalist as 리원차돌짬뽕
 - BlackHat MEA CTF, Finalist as DeadSec
 
@@ -29,7 +29,7 @@
 - Hacker's Playground (SSTF), 1st as The Duck
 - HITCON CTF, Finalist as 프로그램털모찌
 - Whitehat Contest Korea, Finalist as 캣플코 (cat :flag_kr​:)
-- Cyber Conflict Excercise, Finalist as 군필
+- Cyber Conflict Exercise, Finalist as 군필
 
 #### 2022
 
