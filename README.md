@@ -12,7 +12,7 @@
 ### Education
 
 - Jul. 2020 - Mar. 2021, KITRI Best of the Best 9th, Vulnerability Analysis (TOP30)
-- Mar. 2019 - Feb. 2025, Seoultech, Computer Science and Enginnering
+- Mar. 2019 - Feb. 2025, Seoultech, Computer Science and Enginnering B.S.
 
 ### CTF
 
