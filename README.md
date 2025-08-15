@@ -18,7 +18,9 @@
 
 #### 2025
 
+- DEF CON 33 CTF, 1st as MMM
 - Remedy CTF, 1st as ChainLight
+- Codegate, Finalist as 쀏
 
 #### 2024
 
