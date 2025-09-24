@@ -20,6 +20,7 @@
 
 - DEF CON 33 CTF, 1st as MMM
 - Remedy CTF, 1st as ChainLight
+- Cyber Conflict Exercise, 3rd as 초코민트 요리모 미니칩
 - Codegate, Finalist as 쀏
 
 #### 2024
