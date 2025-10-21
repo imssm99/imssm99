@@ -20,12 +20,14 @@
 
 - DEF CON 33 CTF, 1st as MMM
 - Remedy CTF, 1st as ChainLight
+- LINE CTF, 1st as The Duck
 - Cyber Conflict Exercise, 3rd as 초코민트 요리모 미니칩
 - Codegate, Finalist as 쀏
 
 #### 2024
 
 - DEF CON 32 CTF, 1st as MMM
+- LINE CTF, 1st as The Duck
 - HITCON CTF, 3rd as MMM
 - Cyber Conflict Exercise, 4th as 군필
 - Codegate, Finalist as 리원차돌짬뽕
